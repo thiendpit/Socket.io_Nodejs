@@ -1,0 +1,27 @@
+{
+  "name": "socket.io_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiendpit/Socket.io_Nodejs.git"
+  },
+  "author": "thiendpit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiendpit/Socket.io_Nodejs/issues"
+  },
+  "homepage": "https://github.com/thiendpit/Socket.io_Nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
